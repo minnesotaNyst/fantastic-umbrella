@@ -112,4 +112,6 @@ dist
 #Package Lock
 package-lock.json
 
+# *************REMOVE THIS BEFORE FINAL PUSH*************
+readme.md
 
