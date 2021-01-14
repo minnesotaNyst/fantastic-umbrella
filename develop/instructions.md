@@ -62,6 +62,7 @@ Use the `schema.sql` file in the `db` folder to create your database using MySQL
 
 Your database should contain the following four models, including the requirements listed for each model:
 
+<!-- DONE -->
 * `Category`
 
   * `id`
