@@ -110,6 +110,7 @@ dist
 .env
 
 #Package Lock
-package-lock.json
+package-lock.json 
+
 
 
