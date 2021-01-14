@@ -1,7 +1,7 @@
 {
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
-  "description": "",
+  "description": "This application allows the end user enter and save notes on a server deployed web interface. The end user has the ability to enter a new note and save the note. One feature that is currently being established is how to delete specific notes.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
