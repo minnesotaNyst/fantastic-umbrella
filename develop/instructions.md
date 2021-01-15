@@ -75,6 +75,7 @@ Your database should contain the following four models, including the requiremen
     * String
     * Doesn't allow null values
 
+<!-- DONE -->
 * `Product`
 
   * `id`
