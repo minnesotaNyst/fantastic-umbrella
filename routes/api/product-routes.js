@@ -141,5 +141,4 @@ router.delete('/:id', (req, res) => {
 		res.json(dbData);
 	});
 });
-
 module.exports = router;
